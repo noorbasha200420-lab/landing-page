@@ -1,0 +1,158 @@
+.body{
+    background-color: rgb(58, 58, 53);
+}.Div{
+    background-color: rgb(201, 145, 24);
+    width:1090px;
+    height:858px;
+    position: relative;
+    left:1296px;
+    bottom:240px;
+    border-radius: 23px;
+  
+}.main{
+    justify-content: center;
+    width:350px;
+    margin-left: 600px;
+    margin-top: 340px;
+    justify-content: center;
+}.contianer{
+    position: relative;
+    top:100px;
+    width:329%;
+    height:670px;
+    background-color: rgb(241, 255, 255);
+    display:flex;
+    justify-content: flex-end;
+    border-radius: 20px;
+    box-shadow: 10px 5px  5px 5px;
+    margin-left: -1104px;
+    
+
+}.contianer img{
+    position: relative;
+    width:900px;
+    height:490px;
+    display:flex;
+    left:840px;
+    top:10px;
+    border-radius: 30px;
+
+}
+.nav{
+    width:530px;
+    display:flex;
+    left:-150px;
+    gap:90px;
+    border:5px solid darkgoldenrod;
+    border-radius:12px;
+    position: relative;
+    top:20px;
+  background-color: darkgoldenrod;
+  filter:opacity(100%);
+}.sec{
+    background-color: rgb(219, 171, 81);
+    
+}
+.text-content
+{
+    position: relative;
+    right:730px;
+    top:60px;
+}.p2{
+    font-family: Kunstler Script;
+    color:darkgoldenrod;
+    font-size:30px;
+    position: relative;
+    bottom: 40px;
+    left:60px;
+}
+h1{
+    font-size:36px;
+    text-align: center;
+}.p3{
+      font-weight:normal;
+      position: relative;
+      bottom: 44px;
+}
+.p5{
+    display:flex;
+    flex-direction: column;
+    width:270px;
+    position: relative;
+    bottom: 50px;
+    font-weight: bold;
+}
+.buttons{
+ display:flex;
+ gap:30px;
+ margin-left: 100px;
+}
+.but1,.but2{
+width:88px;
+height: 60px;
+position:relative;
+top:-30px;
+}.but1{
+    background-color:darkgoldenrod ;
+   
+    font:  20px MV Boli;
+    border: 5px solid rgb(168, 125, 16);
+    border-radius: 12px;
+}
+.but2{
+    background-color:darkgoldenrod ;
+   
+    font:  20px MV Boli;
+    border: 5px solid rgb(168, 125, 16);
+    border-radius: 12px;
+}.shap{
+    border: 5px solid rgb(49, 46, 46);
+width: 300px;
+height: 180px;
+border-bottom: none;
+border-radius: 100px 100px 0 0;
+transform: rotate(0deg);
+position: relative;
+bottom: 64px;
+left: 2px;
+background-color: rgb(58, 58, 56);
+}.footer{
+    background-color: rgb(201, 145, 24);
+width: 1146px;
+height: 120px;
+position: relative;
+bottom: 450px;
+left: 795px;
+border-radius: 12px;
+}.off{
+    position: relative;
+    top:17px;
+       font:  30px MV Boli;
+    text-align: center;
+}.foot{
+    display: flex;
+    flex-direction: row;
+position: relative;
+bottom: 200px;
+gap:50px;
+left:330px;
+}h3{
+    font: bold 20px MV Boli;
+}.p6{
+    font: bold 14px MV Boli;
+}a{
+
+  text-decoration: none;
+  color:black;
+}a:hover{
+    color: rgb(250, 207, 176);
+  
+}.btn{
+    transition: transform 0.3s ease;
+    background-color:rgb(102, 101, 100) ;
+    position: relative;
+   top: -16px;
+   left:33px;
+    font:  17px MV Boli;
+    border: 5px solid rgb(87, 84, 77);
+    border-radius: 12px;}
